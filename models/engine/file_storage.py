@@ -3,6 +3,7 @@
 import json
 from models.base_model import BaseModel
 from os.path import isfile
+from models.user import User
 
 
 class FileStorage:
